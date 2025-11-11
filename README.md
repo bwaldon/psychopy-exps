@@ -10,7 +10,7 @@ Code and data to support LING 805: Computational Methods for Linguists. Far more
 ## Templates:
 
 - `1-acceptability-judgment-simple`: a simple Likert scale acceptability judgment experiment. (We will recreate this in class). Participants provide a response and immediately advance to a subsequent trial. 
-- `2-acceptability-judgment-advanced`: a more advanced Likert scale acceptability judgment experiment. Participants advance from trial to trial by pressing the space bar. Participants are prevented from advancing until they provide a Likert response. 
+- `2-acceptability-judgment-advanced`: a more advanced Likert scale acceptability judgment experiment. Participants advance from trial to trial by pressing the space bar. Participants are prevented from advancing until they provide a Likert response. A code element handles random assignment to a between-subjects condition.
 
 ## Troubleshooting:
 
