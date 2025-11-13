@@ -1,6 +1,6 @@
 # Psychopy experiment templates
 
-Code and data to support LING 805: Computational Methods for Linguists. Far more advanced templates are published by Pavlovia at https://gitlab.pavlovia.org/demos
+Code and data to support LING 805: Computational Methods for Linguists! Far more advanced templates are published by Pavlovia at https://gitlab.pavlovia.org/demos
 
 ## Requirements:
 
